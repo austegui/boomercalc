@@ -1,12 +1,12 @@
 import React from 'react';
-import CalculadoraPerfilFinanciero from './components/CalculadoraPerfilFinanciero';
+   import CalculadoraPerfilFinanciero from './components/CalculadoraPerfilFinanciero';
 
-function App() {
-  return (
-    <div className="App">
-      <CalculadoraPerfilFinanciero />
-    </div>
-  );
-}
+   function App() {
+     return (
+       <div className="App">
+         <CalculadoraPerfilFinanciero />
+       </div>
+     );
+   }
 
-export default App;
+   export default App;
