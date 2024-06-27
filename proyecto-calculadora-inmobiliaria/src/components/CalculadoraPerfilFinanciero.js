@@ -3,10 +3,10 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsi
 
 const CalculadoraPerfilFinanciero = () => {
   const [inputs, setInputs] = useState({
-    valor_propiedad_inicial: 500000,
-    edad_propietario: 65,
+    valor_propiedad_inicial: 200000,
+    edad_propietario: 71,
     estado_salud: 'bueno',
-    años: 20,
+    años: 10,
     tasa_apreciacion_anual: 0.03,
     tasa_rentabilidad_anual: 0.06,
     costos_mantenimiento_anual: 0.01,
